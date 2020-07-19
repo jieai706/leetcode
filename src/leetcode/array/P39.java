@@ -3,6 +3,14 @@ package leetcode.array;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 
+ * Combination Sum
+ * Given a set of candidate numbers (candidates) (without duplicates) and a target number (target), 
+ * find all unique combinations in candidates where the candidate numbers sums to target.
+ * @author jieai706
+ * @date 2020-07-19
+ */
 public class P39 {
 
 	public static void main(String[] args) {
