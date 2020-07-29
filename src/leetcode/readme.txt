@@ -51,3 +51,6 @@ P7:反转整数
 -----DP-----
 P70:爬楼梯
 说明：斐波那契数列，用递归会Time Limit Exceeded，用DP
+
+P121:卖股票的最佳时机
+说明：1、双层循环可AC;2、DP,状态转移方程dp[i] = max(dp[i - 1],prices[i] - min),min为记录到i为止的最小值
